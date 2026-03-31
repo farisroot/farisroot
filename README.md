@@ -1,16 +1,24 @@
-## Hey, 👋 
+# 👋 Hey, I'm Faris
 
-<!--
-**farisroot/farisroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ About Me
+- 💻 Learning: Coding, Networking, Ethical Hacking
+- 📈 Forex Trader
+- 🧠 Always evolving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Languages: `Python` `C` `Java`
+- Tools: `Git` `Linux` `Wireshark`
+- Currently exploring: `Cybersecurity` 
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/YOURUSERNAME
+
+---
+
+⭐ *Stay low. Build high.*
